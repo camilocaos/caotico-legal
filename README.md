@@ -1,2 +1,6 @@
-# caotico-legal
-Termos de Serviço e Política de Privacidade do bot Caótico.
+# Caótico
+
+Documentos públicos do bot Caótico.
+
+- [Termos de Serviço](terms.html)
+- [Política de Privacidade](privacy.html)
